@@ -54,12 +54,12 @@
 
 5. Το πρόγραμμα θα πρέπει να εκτελείται με τον παρακάτω τρόπο:
 ```
-java BibartiteChecker example.txt
+java BipartiteChecker example.txt
 ```
 ή 
 
 ```
-java BibartiteChecker -b example.txt
+java BipartiteChecker -b example.txt
 ```
 
 Αν δίνεται το `-b` στην εντολή εκτέλεσης του προγράμματος, η διάσχιση του γράφου θα πρέπει να γίνεται κατά πλάτος. Αν δεν δίνεται, η διάσχιση του γράφου θα πρέπει να γίνεται κατά βάθος.
